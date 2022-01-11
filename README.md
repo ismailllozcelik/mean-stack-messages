@@ -1,6 +1,6 @@
 # MeanStackApp
 
-![](https://lh5.googleusercontent.com/3HQRRJ7oKV2Pj0_62spr3K9t6umlpY5ykS-7BbIjdJLhIYJOI3sf66FfzqZYnKLcNJKumSVhnMlARvd74TBJqCx8BbbuFJYSJO3i2T9NkYOi9ffTZI15ZN8ZKp5MTd-8PDmw7asl)
+![](https://miro.medium.com/max/1400/0*WeWoDTLKuxuphc-2.jpg)
 
 This project is the Mean Stack application.
 MongoDB, Express, Angular 12 and Nodejs were used.
