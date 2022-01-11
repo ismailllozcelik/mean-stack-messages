@@ -8,6 +8,7 @@ Authentication, Authorization, Error Handling, Image Uploaded, optimizations mad
 
 ## Development server
 
-- Angular build edilmesi için `ng serve` kullanılmalıdır
-- Backend tarafı için `npm run start:server` kullanılmalıdır
+- `ng serve` should be used to build Angular App
+- `npm run start:server` should be used to build Backend App
+
 
